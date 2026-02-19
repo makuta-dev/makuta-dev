@@ -1,8 +1,10 @@
 # struct Developer { char* name = "Maks Makuta"; };
 
+```
 /* * Arch Linux | C++ | Low-Level Development
  * Currently deep-diving into the fundamentals.
  */
+```
 
 ### 0x01 // Status
 - 🔭 **Focus:** Mastering C++23 and Memory Management.

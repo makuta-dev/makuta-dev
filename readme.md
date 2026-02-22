@@ -1,66 +1,30 @@
-```cpp
-#ifndef DEVELOPER_CORE_H
-#define DEVELOPER_CORE_H
+# 👾 Hello! I'm C++ Game Developer
 
-/**
- * @project  The Journey to Systems Programming
- * @version  0.0.1-alpha (Early Access)
- * @status   Booting...
- */
+Welcome to my profile on Github!
 
-#include <iostream>
-#include <vector>
+🎮 I am a beginner game developer focusing on **C++** and game engine basics.
 
-class AspiringDev {
-public:
-    // --- Profile Metadata ---
-    const char* player_name = "Maks Makuta";
-    const char* class_type  = "Game/System Developer";
-    int level               = 3;
-    float xp_multiplier     = 1.25f; // Buff: High Curiosity
+## 🧠 About Me
+- 🌱 Learning modern C++ for game development
+- 🎮 Interested in graphics programming and game engines
+- ⚡ Trying to build simple games from scratch
 
-    // --- System Requirements (My Toolbox) ---
-    struct Environment {
-        std::string os      = "Arch Linux | Android";
-        std::string editor  = "CLion";
-        std::string toolchain = "GCC / Clang / CMake";
-    };
+## 💻 Skills
+- C++ (basics → intermediate)
+- OpenGL / rendering basics (learning)
+- Game logic programming
+- Linux development environment
 
-    // --- Skill Tree: Unlocked Nodes ---
-    void GetSkillTree() {
-        std::vector<std::string> unlocked = {
-            "Variable_Types", "Control_Flow", 
-            "Basic_Arrays",   "Function_Overloading",
-            "Logic_Gates",    "CLI_Navigation"
-        };
-        
-        for(auto& skill : unlocked) {
-            std::cout << "[UNLOCKED]: " << skill << std::endl;
-        }
-    }
+## 🚀 Projects
+For current projects see pinned repos below...   
+For all projects - use "Repositories" tab up there
 
-    // --- Achievements ---
-    enum class Achievements {
-        HELLO_WORLD_MASTER,    // Completed
-        SEGFAULT_SURVIVOR,     // In Progress
-        MEMORY_LEAK_HUNTER,    // Locked
-        OPTIMIZATION_WIZARD    // Locked
-    };
-};
-
-#endif // DEVELOPER_CORE_H
-
-```
+## 📚 Currently Learning
+- Modern C++ (C++20/23)
+- Game architecture
+- Graphics pipeline basics
+- Resource management systems
 
 ---
 
-### 🏆 Developer Stats (The HUD)
-
-| Attribute | Level | Progress |
-| --- | --- | --- |
-| **C++ Syntax** | `[▓▓▓░░░░░░░]` | 30% - Learning OOP |
-| **Problem Solving** | `[▓▓▓▓░░░░░░]` | 40% - Logic Building |
-| **Memory Management** | `[▓░░░░░░░░░]` | 10% - Reading about Pointers |
-| **Game Math** | `[▓▓░░░░░░░░]` | 20% - Vectors & Coords |
-
----
+⭐ Thanks for visiting my profile!
